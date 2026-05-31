@@ -2,7 +2,7 @@ A production-ready, ultra-lightweight, and secure shortcode-based charting engin
 
 Developed and maintained by **IT Web Solutions, Brampton** ([itwebsolutions.ca](https://itwebsolutions.ca)).
 
-Developed for (myfreetools.app](https://myfreetools.app/)).
+Developed for ([myfreetools.app](https://myfreetools.app/)).
 
 ---
 
