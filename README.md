@@ -1,6 +1,7 @@
 A production-ready, ultra-lightweight, and secure shortcode-based charting engine for WordPress. Built entirely on top of HTML5 Canvas using **Chart.js v4.4.1**, this plugin delivers responsive, beautiful data visualizations without sacrificing your site's page-load performance.
 
 Developed and maintained by **IT Web Solutions, Brampton** ([itwebsolutions.ca](https://itwebsolutions.ca)).
+
 Developed for (myfreetools.app](https://myfreetools.app/)).
 
 ---
